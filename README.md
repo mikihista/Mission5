@@ -1,10 +1,10 @@
 # Mission5
-//This project is to create an Apex class to that will provide an output for the following input
-//Input                      | Display (Output)
-//12(Multiple of 3)          | Ding
-//20(Multiple of 5)          | Dong
-//30(Multiple of 3 & 5)      | DingDong
-//17(not a multiple of 3 & 5)| 17
+This project is to create an Apex class to that will provide an output for the following input
+Input                      | Display (Output)
+12(Multiple of 3)          | Ding
+20(Multiple of 5)          | Dong
+30(Multiple of 3 & 5)      | DingDong
+17(not a multiple of 3 & 5)| 17
 
 public class Mission5 
 {
