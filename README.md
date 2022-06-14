@@ -1,5 +1,5 @@
 # Mission5
-This project is to create an Apex class to that will provide an output for the following input
+This project is to create an Apex class to that will provide an output for the following input:
 Input                      | Display (Output)
 12(Multiple of 3)          | Ding
 20(Multiple of 5)          | Dong
